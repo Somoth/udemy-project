@@ -127,7 +127,7 @@ input[type=submit] {
     transition: background-color 0.2s, border 0.2s, color 0.2s;
 }
 .btn-full:link,
-.btn-fullt:visited,
+.btn-full:visited,
 input[type=submit] {
     background-color: #e67e22;
     color: #fff;
