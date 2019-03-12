@@ -64,7 +64,7 @@ $(document).ready(function() {
             icon.addClass("ion-navicon-round");
             icon.removeClass("ion-close-round");
         } else {
-            icon.addClass("ion-closen-round");
+            icon.addClass("ion-close-round");
             icon.removeClass("ion-navicon-round");
         }
         
